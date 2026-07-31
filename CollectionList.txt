@@ -1,1 +1,1 @@
-{"List":[{"ID":"math","rarity":4,"NameJson":"{\"English\":\"Others\",\"Chinese_CH\":\"其他\",\"Chinese_HK\":\"其他\",\"Chinese_TW\":\"其他\",\"Japanese\":\"その他\"}"}]}
+{"List":[{"ID":"math","rarity":4,"NameJson":"{\"English\":\"Others\",\"Chinese_CH\":\"其他\",\"Chinese_HK\":\"其他\",\"Chinese_TW\":\"其他\",\"Japanese\":\"その他\"}","md5":""}]}
