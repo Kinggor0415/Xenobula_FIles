@@ -76,6 +76,17 @@
             "MusicMd5": "d45f62ad444a9bd2bb211f733b2979a1",
             "MB": 3.930000066757202,
             "dev": false
+        },
+        {
+            "id": "fantasiasonatadestiny",
+            "version": 0,
+            "name": "fantasiasonatadestiny",
+            "InfosMd5": "94a89c21e8ea03a4fdefd27bf5bd4354",
+            "LevelsMd5": "619de5a296352530986fb7fd7fcb4650",
+            "CoverMd5": "9aaeed5b61528d6b6ef0a43372d09864",
+            "MusicMd5": "2214106d3bb931c384169988e25f86a1",
+            "MB": 4.75,
+            "dev": false
         }
     ],
     "LatestVersion": "0.15.0",
