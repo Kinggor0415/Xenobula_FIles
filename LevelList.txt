@@ -92,7 +92,7 @@
             "id": "fantasiasonatagoddance",
             "version": 0,
             "name": "fantasiasonatagoddance",
-            "InfosMd5": "d2d6be7df0cba8a2f3113625a1d6583b",
+            "InfosMd5": "c39613730eb590ddd89165179bde1f30",
             "LevelsMd5": "0d5f99bcf6cfca2cbcef84f62ddf7ef5",
             "CoverMd5": "f47637b88d79b2eb584194921ef03fba",
             "MusicMd5": "4b88e376b871118ab076dad76302bd2f",
