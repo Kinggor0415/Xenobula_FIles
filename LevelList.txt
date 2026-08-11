@@ -109,6 +109,17 @@
             "MusicMd5": "f4e96445ed4ab0d875f9cbb5cd7ce704",
             "MB": 3.140000104904175,
             "dev": false
+        },
+        {
+            "id": "FSOTSRECAPS",
+            "version": 0,
+            "name": "FSOTSRECAPS",
+            "InfosMd5": "e470a3d7685b00914bfe2a4d348b71d2",
+            "LevelsMd5": "2e756b270c065bf3d1e99eeb658bad71",
+            "CoverMd5": "6e9ea2fa23a52028a4b0435901caeb24",
+            "MusicMd5": "5fbc005ec5524885507016822c244770",
+            "MB": 4.769999980926514,
+            "dev": false
         }
     ],
     "LatestVersion": "0.15.0",
