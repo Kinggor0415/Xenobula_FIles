@@ -98,6 +98,17 @@
             "MusicMd5": "4b88e376b871118ab076dad76302bd2f",
             "MB": 3.0,
             "dev": false
+        },
+        {
+            "id": "tasukete",
+            "version": 0,
+            "name": "tasukete",
+            "InfosMd5": "9099e7f7eb639e2300535333bcb321cf",
+            "LevelsMd5": "b9b45a3df9885ae8896e791ea727f5c4",
+            "CoverMd5": "ca0bec9c6188971db496f50c30da88dc",
+            "MusicMd5": "f4e96445ed4ab0d875f9cbb5cd7ce704",
+            "MB": 3.140000104904175,
+            "dev": false
         }
     ],
     "LatestVersion": "0.15.0",
