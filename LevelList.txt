@@ -142,6 +142,10 @@
                 "TranslationsJson": "{\"English\":\"All\",\"Chinese_CH\":\"全部\",\"Chinese_HK\":\"全部\",\"Chinese_TW\":\"全部\",\"Japanese\":\"すべて\"}"
             },
             {
+                "name": "favourite",
+                "TranslationsJson": "{   \"English\": \"Favorite\",   \"Chinese_CH\": \"收藏\",   \"Chinese_HK\": \"最愛\",   \"Chinese_TW\": \"最愛\",   \"Japanese\": \"お気に入り\" }"
+            },
+            {
                 "name": "others",
                 "TranslationsJson": "{\"English\":\"Others\",\"Chinese_CH\":\"其他\",\"Chinese_HK\":\"其他\",\"Chinese_TW\":\"其他\",\"Japanese\":\"その他\"}"
             },
