@@ -131,6 +131,17 @@
             "MusicMd5": "31959f647726442fc8b5d95149655c31",
             "MB": 3.859999895095825,
             "dev": false
+        },
+        {
+            "id": "flamewall",
+            "version": 0,
+            "name": "flamewall",
+            "InfosMd5": "3c6460a12d01206ce336091a70f5f27c",
+            "LevelsMd5": "9b7b219ea5876d3f9636efe9ee86ae4c",
+            "CoverMd5": "31fabf0628a5fd9e17d717a86677cd83",
+            "MusicMd5": "2104602376f474a70fcafc7241e7f211",
+            "MB": 5.599999904632568,
+            "dev": false
         }
     ],
     "LatestVersion": "0.15.0",
