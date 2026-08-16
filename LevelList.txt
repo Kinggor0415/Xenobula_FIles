@@ -15,11 +15,11 @@
             "id": "psychedfevereiro",
             "version": 0,
             "name": "psyched",
-            "InfosMd5": "bb4063d89ce3cbfb2934be4a27890bfa",
-            "LevelsMd5": "7e24e321189b367d2deef96fb8f52358",
+            "InfosMd5": "f85d0c5e8dfbf6d26bd75894556693d8",
+            "LevelsMd5": "2ab687c8e60b3f0e2f9295af90725a56",
             "CoverMd5": "ba7967769ed85da192b505cdb9bacce1",
             "MusicMd5": "06b65d2c02fde35ee72287a0508997f8",
-            "MB": 2.819999933242798,
+            "MB": 3.2200000286102297,
             "dev": false
         },
         {
