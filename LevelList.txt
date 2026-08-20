@@ -153,6 +153,17 @@
             "MusicMd5": "e53ef97d07b94ef361dd877dfd0e3478",
             "MB": 3.819999933242798,
             "dev": false
+        },
+        {
+            "id": "chronostasis",
+            "version": 0,
+            "name": "chronostasis",
+            "InfosMd5": "bae4eae9a83f57493464678ec7247439",
+            "LevelsMd5": "afa3e5f300619c5ea45738bd3acec491",
+            "CoverMd5": "26f497cc7d248985da87b5a6c8ca6bde",
+            "MusicMd5": "84c8164dbbe2ffbd5e4c3353264b5673",
+            "MB": 4.0,
+            "dev": false
         }
     ],
     "LatestVersion": "0.15.0",
