@@ -103,11 +103,11 @@
             "id": "tasukete",
             "version": 0,
             "name": "tasukete",
-            "InfosMd5": "9099e7f7eb639e2300535333bcb321cf",
-            "LevelsMd5": "b9b45a3df9885ae8896e791ea727f5c4",
+            "InfosMd5": "8ea2b91956b01175e5ee8cd3d28e9688",
+            "LevelsMd5": "da57533fc9e8cb6316e15fe2e37c38f0",
             "CoverMd5": "ca0bec9c6188971db496f50c30da88dc",
             "MusicMd5": "f4e96445ed4ab0d875f9cbb5cd7ce704",
-            "MB": 3.140000104904175,
+            "MB": 3.4000000953674318,
             "dev": false
         },
         {
