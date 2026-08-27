@@ -93,10 +93,10 @@
             "version": 0,
             "name": "fantasiasonatagoddance",
             "InfosMd5": "3bc8c5a8e5b68c889b6e4f428a4a6f87",
-            "LevelsMd5": "bf8ff6f80bde75b9d97c9954e091fffa",
+            "LevelsMd5": "b8b4d8970eef704ac16b2074eed5fa13",
             "CoverMd5": "f47637b88d79b2eb584194921ef03fba",
             "MusicMd5": "4b88e376b871118ab076dad76302bd2f",
-            "MB": 3.109999895095825,
+            "MB": 3.119999885559082,
             "dev": false
         },
         {
