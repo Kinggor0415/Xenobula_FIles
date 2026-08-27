@@ -82,7 +82,7 @@
             "version": 0,
             "name": "fantasiasonatadestiny",
             "InfosMd5": "13201a9ba2e5f39d6b4b6ed49371a25a",
-            "LevelsMd5": "2228ef3e8ce51f3bf6aead5fb0558e3e",
+            "LevelsMd5": "84aa53624a994b6bb4f012448312efa4",
             "CoverMd5": "9aaeed5b61528d6b6ef0a43372d09864",
             "MusicMd5": "2214106d3bb931c384169988e25f86a1",
             "MB": 5.0,
