@@ -164,6 +164,17 @@
             "MusicMd5": "84c8164dbbe2ffbd5e4c3353264b5673",
             "MB": 4.0,
             "dev": false
+        },
+        {
+            "id": "flamelotus",
+            "version": 0,
+            "name": "flamelotus",
+            "InfosMd5": "bfa14069cef46f72cedfd7c63295a3b4",
+            "LevelsMd5": "3d1d726d01bae5b348817f7a90994a19",
+            "CoverMd5": "47c1857ff417598f32fa3898b5cd6b3c",
+            "MusicMd5": "6b7cc8d80f06e8bb5463106ff760571b",
+            "MB": 4.989999771118164,
+            "dev": false
         }
     ],
     "LatestVersion": "0.15.0",
