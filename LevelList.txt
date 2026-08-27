@@ -5,10 +5,10 @@
             "version": 0,
             "name": "macropolis",
             "InfosMd5": "85c0ab4100b2b4602898883727df862c",
-            "LevelsMd5": "424f7060ab281fa4212d655b8aac767d",
+            "LevelsMd5": "15e31675c4421eac519127677856e18c",
             "CoverMd5": "e41072e65c348e4d991ddfd611a3b070",
             "MusicMd5": "33b8bb07a0503ec3b997253e59d80ff7",
-            "MB": 2.5,
+            "MB": 3.6600000858306886,
             "dev": false
         },
         {
