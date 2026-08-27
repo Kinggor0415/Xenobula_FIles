@@ -72,7 +72,7 @@
             "name": "aletheiaunveiled",
             "InfosMd5": "624b729e0a99235a34ba5dcbbd25b34a",
             "LevelsMd5": "e3cd00742b582fc5d79914a1c557b8bf",
-            "CoverMd5": "ddb4ea7b8bb05ad2db0d9d307859fc19",
+            "CoverMd5": "cd5c5c5b78c19a75e5be52be71dfc060",
             "MusicMd5": "d45f62ad444a9bd2bb211f733b2979a1",
             "MB": 3.930000066757202,
             "dev": false
