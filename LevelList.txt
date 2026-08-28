@@ -170,7 +170,7 @@
             "version": 0,
             "name": "flamelotus",
             "InfosMd5": "3534a667a6c76f25fd3b840d6340c44a",
-            "LevelsMd5": "3d1d726d01bae5b348817f7a90994a19",
+            "LevelsMd5": "fda90ac3b5e596e6286e51b147fa19f3",
             "CoverMd5": "47c1857ff417598f32fa3898b5cd6b3c",
             "MusicMd5": "6b7cc8d80f06e8bb5463106ff760571b",
             "MB": 4.989999771118164,
