@@ -49,7 +49,7 @@
             "version": 0,
             "name": "cotton candy",
             "InfosMd5": "d6d1b1866d47eccd5b126d51493cbee7",
-            "LevelsMd5": "0e3c47b7557027ff04abff2ca7bb14a3",
+            "LevelsMd5": "805a556f7bfc75ab06d908be1522383d",
             "CoverMd5": "67279ea4b0ccfc3f7365192c8c57b2e0",
             "MusicMd5": "7d0cbb1175ede08118b2643b2af872b6",
             "MB": 3.549999952316284,
