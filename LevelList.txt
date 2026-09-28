@@ -186,6 +186,17 @@
             "MusicMd5": "7a978aa89fed3735d6160bc21bb5d711",
             "MB": 4.889999866485596,
             "dev": false
+        },
+        {
+            "id": "rainice",
+            "version": 0,
+            "name": "rainice",
+            "InfosMd5": "dfd328bb922267bcf0e9272083e6dfa9",
+            "LevelsMd5": "3a908a373d6e033d7c110b9f952524bb",
+            "CoverMd5": "81edc6a4343c2fe79503d1d78421f0b1",
+            "MusicMd5": "0728f9f5a7d64ad9ebd671b2e42f9eb2",
+            "MB": 7.559999942779541,
+            "dev": false
         }
     ],
     "LatestVersion": "0.15.0",
