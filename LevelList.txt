@@ -191,11 +191,11 @@
             "id": "rainice",
             "version": 0,
             "name": "rainice",
-            "InfosMd5": "dfd328bb922267bcf0e9272083e6dfa9",
+            "InfosMd5": "7355519239340c8a2bb18d923b104c78",
             "LevelsMd5": "3a908a373d6e033d7c110b9f952524bb",
-            "CoverMd5": "81edc6a4343c2fe79503d1d78421f0b1",
-            "MusicMd5": "0728f9f5a7d64ad9ebd671b2e42f9eb2",
-            "MB": 7.559999942779541,
+            "CoverMd5": "5dfbfc201c21970351cf4f45e8ea19f0",
+            "MusicMd5": "a7c273fc35d408933b2a20990ebfd2fb",
+            "MB": 5.050000190734863,
             "dev": false
         }
     ],
