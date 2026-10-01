@@ -26,11 +26,11 @@
             "id": "jackthereaper",
             "version": 0,
             "name": "jack the reaper",
-            "InfosMd5": "3f2b2a41d2c2b5f72f7a671f4221fd80",
-            "LevelsMd5": "57059dcae103abda245d345b97cb0579",
+            "InfosMd5": "9319fb853446aee96f39ecbf06ed53bb",
+            "LevelsMd5": "3dc7949714a7e3e6ab0de23c5a755094",
             "CoverMd5": "ec3aae9d08e80f3797bc57d6267fdf66",
             "MusicMd5": "8ffcb710221f7867f97916e9ffec5a6e",
-            "MB": 2.299999952316284,
+            "MB": 2.950000047683716,
             "dev": false
         },
         {
