@@ -126,10 +126,10 @@
             "version": 0,
             "name": "chartreusegreen",
             "InfosMd5": "10d6370945351bf9d59e45d02c22d67c",
-            "LevelsMd5": "0d606c3ba5531e307a0405035bcb09e2",
+            "LevelsMd5": "03cc7dad8bdf3b187a6410b10dd8a4bf",
             "CoverMd5": "522b7ce5dc7daf0bb811e799f45877ea",
             "MusicMd5": "31959f647726442fc8b5d95149655c31",
-            "MB": 4.559999942779541,
+            "MB": 4.519999980926514,
             "dev": false
         },
         {
