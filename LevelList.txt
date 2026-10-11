@@ -60,10 +60,10 @@
             "version": 0,
             "name": "bci fighter",
             "InfosMd5": "91e41862dd9fe997f2dd57ce042dae71",
-            "LevelsMd5": "56f5b167aec4331e8c1afef3447fa512",
+            "LevelsMd5": "d9d98d85bf9ec0c4b112fcfd4bb07264",
             "CoverMd5": "5ae12d81b75b3a5165dab4e826a19dff",
             "MusicMd5": "d272ce3060d29b44462ef6db8f9389cf",
-            "MB": 5.960000038146973,
+            "MB": 5.96999979019165,
             "dev": false
         },
         {
