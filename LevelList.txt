@@ -41,7 +41,7 @@
             "LevelsMd5": "85589bc5e6bd4aac6535e4b48d106f27",
             "CoverMd5": "31fabf0628a5fd9e17d717a86677cd83",
             "MusicMd5": "76185bf87afc7ed5651da2a9c395a50f",
-            "MB": 4.5,
+            "MB": 4.570000171661377,
             "dev": false
         },
         {
@@ -82,7 +82,7 @@
             "version": 0,
             "name": "fantasiasonatadestiny",
             "InfosMd5": "13201a9ba2e5f39d6b4b6ed49371a25a",
-            "LevelsMd5": "84aa53624a994b6bb4f012448312efa4",
+            "LevelsMd5": "dfba277e04e69fda238003e3c8383018",
             "CoverMd5": "9aaeed5b61528d6b6ef0a43372d09864",
             "MusicMd5": "2214106d3bb931c384169988e25f86a1",
             "MB": 5.0,
@@ -140,7 +140,7 @@
             "LevelsMd5": "a6391ef76c384ce7741e0ca14c0421b5",
             "CoverMd5": "31fabf0628a5fd9e17d717a86677cd83",
             "MusicMd5": "2104602376f474a70fcafc7241e7f211",
-            "MB": 6.0,
+            "MB": 6.050000190734863,
             "dev": false
         },
         {
@@ -162,7 +162,7 @@
             "LevelsMd5": "afa3e5f300619c5ea45738bd3acec491",
             "CoverMd5": "26f497cc7d248985da87b5a6c8ca6bde",
             "MusicMd5": "84c8164dbbe2ffbd5e4c3353264b5673",
-            "MB": 4.0,
+            "MB": 4.099999904632568,
             "dev": false
         },
         {
