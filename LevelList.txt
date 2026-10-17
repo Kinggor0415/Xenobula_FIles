@@ -58,9 +58,9 @@
         {
             "id": "bcifighter",
             "version": 0,
-            "name": "bci fighter",
-            "InfosMd5": "91e41862dd9fe997f2dd57ce042dae71",
-            "LevelsMd5": "d9d98d85bf9ec0c4b112fcfd4bb07264",
+            "name": "bcifighter",
+            "InfosMd5": "75886a73b6a903543dc947395772fb63",
+            "LevelsMd5": "39b69128522ff38b2e25aa34ab6d328f",
             "CoverMd5": "5ae12d81b75b3a5165dab4e826a19dff",
             "MusicMd5": "d272ce3060d29b44462ef6db8f9389cf",
             "MB": 5.96999979019165,
@@ -196,6 +196,17 @@
             "CoverMd5": "5dfbfc201c21970351cf4f45e8ea19f0",
             "MusicMd5": "a7c273fc35d408933b2a20990ebfd2fb",
             "MB": 5.050000190734863,
+            "dev": false
+        },
+        {
+            "id": "dogbite",
+            "version": 0,
+            "name": "dogbite",
+            "InfosMd5": "b078815392901df1b50aff212e6dd75e",
+            "LevelsMd5": "a0c0f87d99e346049344f918a7a4aa2b",
+            "CoverMd5": "26c5014516ccdae137c62db490f59a57",
+            "MusicMd5": "9742c17ed9c34fc8e6a50653fcdf4262",
+            "MB": 2.9100000858306886,
             "dev": false
         }
     ],
