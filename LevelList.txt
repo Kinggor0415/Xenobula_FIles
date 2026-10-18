@@ -4,7 +4,7 @@
             "id": "macropolis",
             "version": 0,
             "name": "macropolis",
-            "InfosMd5": "85c0ab4100b2b4602898883727df862c",
+            "InfosMd5": "e7ef660f879758a01bfce0592878b0bf",
             "LevelsMd5": "15e31675c4421eac519127677856e18c",
             "CoverMd5": "e41072e65c348e4d991ddfd611a3b070",
             "MusicMd5": "33b8bb07a0503ec3b997253e59d80ff7",
@@ -215,9 +215,9 @@
             "name": "marsenal",
             "InfosMd5": "31293059096d504f90e97af3c919daad",
             "LevelsMd5": "274085937cdf4762ab204eadc6d2b1b8",
-            "CoverMd5": "a844b09f6ff352ba43c8ff15032e182a",
+            "CoverMd5": "cc2d25376ca488cb53b086dad1bade6e",
             "MusicMd5": "b160ccfe3caeed00ebbf57a3e48ace62",
-            "MB": 4.579999923706055,
+            "MB": 4.599999904632568,
             "dev": false
         }
     ],
