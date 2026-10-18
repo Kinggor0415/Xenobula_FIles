@@ -181,7 +181,7 @@
             "version": 0,
             "name": "chirusakura",
             "InfosMd5": "d0fe4a9f9c5c239efd3d0e82f1f206de",
-            "LevelsMd5": "08db33133aa124c2a0b154e663fa4aef",
+            "LevelsMd5": "ed6f3473ab27238d401600030f4b17fc",
             "CoverMd5": "932c2c45ac5d454b43b90a0062650c4d",
             "MusicMd5": "7a978aa89fed3735d6160bc21bb5d711",
             "MB": 5.329999923706055,
