@@ -4,11 +4,11 @@
             "id": "macropolis",
             "version": 0,
             "name": "macropolis",
-            "InfosMd5": "e7ef660f879758a01bfce0592878b0bf",
-            "LevelsMd5": "15e31675c4421eac519127677856e18c",
+            "InfosMd5": "371f0d772e49aa7d8984346dff060aa7",
+            "LevelsMd5": "7f45e0f8b5c05ffe9d66ebc84fc5f31e",
             "CoverMd5": "e41072e65c348e4d991ddfd611a3b070",
             "MusicMd5": "33b8bb07a0503ec3b997253e59d80ff7",
-            "MB": 3.6600000858306886,
+            "MB": 4.699999809265137,
             "dev": false
         },
         {
