@@ -60,7 +60,7 @@
             "version": 0,
             "name": "bcifighter",
             "InfosMd5": "872271fd4597850967db9a22875d3b20",
-            "LevelsMd5": "bc8a855685aa1a0490046bc3939482fc",
+            "LevelsMd5": "7dfaefa919e17254f7bde8d08f5d0b41",
             "CoverMd5": "5ae12d81b75b3a5165dab4e826a19dff",
             "MusicMd5": "d272ce3060d29b44462ef6db8f9389cf",
             "MB": 5.96999979019165,
