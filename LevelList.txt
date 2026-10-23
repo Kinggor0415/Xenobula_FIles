@@ -191,7 +191,7 @@
             "id": "rainice",
             "version": 0,
             "name": "rainice",
-            "InfosMd5": "7355519239340c8a2bb18d923b104c78",
+            "InfosMd5": "13d4af8c6385cfc031e3f2a536f4edbf",
             "LevelsMd5": "3a908a373d6e033d7c110b9f952524bb",
             "CoverMd5": "5dfbfc201c21970351cf4f45e8ea19f0",
             "MusicMd5": "a7c273fc35d408933b2a20990ebfd2fb",
