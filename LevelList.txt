@@ -219,6 +219,17 @@
             "MusicMd5": "b160ccfe3caeed00ebbf57a3e48ace62",
             "MB": 4.599999904632568,
             "dev": false
+        },
+        {
+            "id": "dancewithsilence",
+            "version": 0,
+            "name": "dancewithsilence",
+            "InfosMd5": "9c084baa6800b67442de4caa2ca14c99",
+            "LevelsMd5": "397511d1743811831fdc75ba8617a69a",
+            "CoverMd5": "31fabf0628a5fd9e17d717a86677cd83",
+            "MusicMd5": "4d1d51500e67346796b3770f761bc943",
+            "MB": 4.519999980926514,
+            "dev": false
         }
     ],
     "LatestVersion": "0.15.0",
