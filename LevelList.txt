@@ -180,11 +180,11 @@
             "id": "chirusakura",
             "version": 0,
             "name": "chirusakura",
-            "InfosMd5": "d0fe4a9f9c5c239efd3d0e82f1f206de",
-            "LevelsMd5": "ed6f3473ab27238d401600030f4b17fc",
+            "InfosMd5": "7b25a2903d184b31f671bfd7cc29a44b",
+            "LevelsMd5": "33398e5d6a947af6af0f161f7d7bd51e",
             "CoverMd5": "932c2c45ac5d454b43b90a0062650c4d",
             "MusicMd5": "7a978aa89fed3735d6160bc21bb5d711",
-            "MB": 5.329999923706055,
+            "MB": 5.840000152587891,
             "dev": false
         },
         {
