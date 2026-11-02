@@ -42,7 +42,7 @@
             "CoverMd5": "31fabf0628a5fd9e17d717a86677cd83",
             "MusicMd5": "76185bf87afc7ed5651da2a9c395a50f",
             "MB": 4.570000171661377,
-            "dev": false
+            "dev": true
         },
         {
             "id": "cottoncandy",
