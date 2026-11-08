@@ -147,11 +147,11 @@
             "id": "flowerend",
             "version": 0,
             "name": "flowerend",
-            "InfosMd5": "70a851c64aee5fccc4a3e498544c6e65",
-            "LevelsMd5": "781131ec6cb98f7bb9ac8666cb095c38",
+            "InfosMd5": "b4897ae11e877d167df1f73f39ff4e6d",
+            "LevelsMd5": "9b31f7ed675f7c832590bd02b939a923",
             "CoverMd5": "4aad1b5300731e7bfee20f105ffce689",
             "MusicMd5": "e53ef97d07b94ef361dd877dfd0e3478",
-            "MB": 4.079999923706055,
+            "MB": 4.139999866485596,
             "dev": false
         },
         {
@@ -181,10 +181,10 @@
             "version": 0,
             "name": "chirusakura",
             "InfosMd5": "7b25a2903d184b31f671bfd7cc29a44b",
-            "LevelsMd5": "33398e5d6a947af6af0f161f7d7bd51e",
+            "LevelsMd5": "9e0cda0812383fef3058e839151a01c6",
             "CoverMd5": "932c2c45ac5d454b43b90a0062650c4d",
             "MusicMd5": "7a978aa89fed3735d6160bc21bb5d711",
-            "MB": 5.840000152587891,
+            "MB": 5.849999904632568,
             "dev": false
         },
         {
@@ -232,7 +232,20 @@
             "dev": false
         }
     ],
-    "aPracticeLvls": [],
+    "HideLevels": [],
+    "aPracticeLvls": [
+        {
+            "id": "test",
+            "version": 0,
+            "name": "test",
+            "InfosMd5": "",
+            "LevelsMd5": "",
+            "CoverMd5": "",
+            "MusicMd5": "",
+            "MB": 0.0,
+            "dev": false
+        }
+    ],
     "LatestVersion": "0.15.0",
     "PardonVersion": [],
     "GenreList": {
