@@ -235,16 +235,16 @@
     "HideLevels": [
         "danceofsilence"
     ],
-    "aPracticeLvls": [
+    "aTrainings": [
         {
             "id": "test",
             "version": 0,
             "name": "test",
-            "InfosMd5": "",
-            "LevelsMd5": "",
-            "CoverMd5": "",
+            "InfosMd5": "f7a13d5610be622bd9a52f740dcf55af",
+            "LevelsMd5": "817a3ba5e277800e043ed5b1101b1c47",
+            "CoverMd5": "4aad1b5300731e7bfee20f105ffce689",
             "MusicMd5": "",
-            "MB": 0.0,
+            "MB": 0.6000000238418579,
             "dev": false
         }
     ],
@@ -269,5 +269,13 @@
                 "TranslationsJson": "{\"English\":\"Recommend\",\"Chinese_CH\":\"推荐\",\"Chinese_HK\":\"推薦\",\"Chinese_TW\":\"推薦\",\"Japanese\":\"おすすめ\"}"
             }
         ]
+    },
+    "UpdateNotice": {
+        "id": 0,
+        "English": "",
+        "Chinese_CH": "",
+        "Chinese_HK": "",
+        "Chinese_TW": "",
+        "Japanese": ""
     }
 }
