@@ -232,7 +232,9 @@
             "dev": false
         }
     ],
-    "HideLevels": [],
+    "HideLevels": [
+        "danceofsilence"
+    ],
     "aPracticeLvls": [
         {
             "id": "test",
