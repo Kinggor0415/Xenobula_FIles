@@ -240,7 +240,7 @@
             "id": "test",
             "version": 0,
             "name": "test",
-            "InfosMd5": "f7a13d5610be622bd9a52f740dcf55af",
+            "InfosMd5": "59da4708891e8aae21bf65ca57a64f8c",
             "LevelsMd5": "817a3ba5e277800e043ed5b1101b1c47",
             "CoverMd5": "4aad1b5300731e7bfee20f105ffce689",
             "MusicMd5": "",
