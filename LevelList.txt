@@ -4,7 +4,7 @@
             "id": "macropolis",
             "version": 0,
             "name": "macropolis",
-            "InfosMd5": "da5525473a78e080f60a2f87547a631b",
+            "InfosMd5": "813c2c8348f88a79815c93b170b17cb5",
             "LevelsMd5": "789658f706d1aadd0a73e0b676cb18ad",
             "CoverMd5": "e41072e65c348e4d991ddfd611a3b070",
             "MusicMd5": "33b8bb07a0503ec3b997253e59d80ff7",
