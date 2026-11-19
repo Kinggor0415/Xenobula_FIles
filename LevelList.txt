@@ -136,11 +136,11 @@
             "id": "flamewall",
             "version": 0,
             "name": "flamewall",
-            "InfosMd5": "015bfc20b84b4b73ea3d25f60b91203a",
-            "LevelsMd5": "491ded9af55efe4204de0f2b5e921d95",
+            "InfosMd5": "e14fcf13caca1e6626d24c47a9239a31",
+            "LevelsMd5": "b36c27d1f8df35472fc92b6be51e87c0",
             "CoverMd5": "31fabf0628a5fd9e17d717a86677cd83",
             "MusicMd5": "2104602376f474a70fcafc7241e7f211",
-            "MB": 6.050000190734863,
+            "MB": 6.070000171661377,
             "dev": false
         },
         {
