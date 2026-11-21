@@ -136,7 +136,7 @@
             "id": "flamewall",
             "version": 0,
             "name": "flamewall",
-            "InfosMd5": "dc7195adf1453e9d596893cb2b30ed5f",
+            "InfosMd5": "0164925f56d4e0dbb9ada352fc97d622",
             "LevelsMd5": "65d79dacb11c8d8d31002d0776a98ca8",
             "CoverMd5": "31fabf0628a5fd9e17d717a86677cd83",
             "MusicMd5": "2104602376f474a70fcafc7241e7f211",
