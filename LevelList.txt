@@ -125,7 +125,7 @@
             "id": "chartreusegreen",
             "version": 0,
             "name": "chartreusegreen",
-            "InfosMd5": "10d6370945351bf9d59e45d02c22d67c",
+            "InfosMd5": "a888c17dd7b8bee13c74eae5d8b36052",
             "LevelsMd5": "749a70b3456cdcb5c25d3a228691aa0d",
             "CoverMd5": "522b7ce5dc7daf0bb811e799f45877ea",
             "MusicMd5": "31959f647726442fc8b5d95149655c31",
