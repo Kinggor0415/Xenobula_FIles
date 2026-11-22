@@ -25,7 +25,7 @@
         {
             "id": "jackthereaper",
             "version": 0,
-            "name": "jack the reaper",
+            "name": "jackthereaper",
             "InfosMd5": "9319fb853446aee96f39ecbf06ed53bb",
             "LevelsMd5": "3dc7949714a7e3e6ab0de23c5a755094",
             "CoverMd5": "ec3aae9d08e80f3797bc57d6267fdf66",
